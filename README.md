@@ -1,4 +1,4 @@
-# emby_highlighter(Javlib上高亮在Emby中存在的av)     
+# emby_highlighter(Javlib上高亮在Emby中存在的视频)     
 **油猴地址：https://greasyfork.org/zh-CN/scripts/474687-javlib-emby-highlighter-and-redirector**
 
 ### Usage
