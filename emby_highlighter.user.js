@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Javlib Emby Highlighter and Redirector
 // @namespace    https://github.com/CtkGHoSt/emby_highlighter
-// @namespace    https://blog.j8.ee/
 // @version      0.1.3
 // @description  在javlib高亮emby存在的视频，并在详情页提供一键跳转功能
 // @author       ctkghost
