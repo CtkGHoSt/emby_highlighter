@@ -1,6 +1,5 @@
-# emby_highlighter     
-
-## Javlib上高亮在Emby中存在的av
+# emby_highlighter(Javlib上高亮在Emby中存在的av)     
+**油猴地址：https://greasyfork.org/zh-CN/scripts/474687-javlib-emby-highlighter-and-redirector**
 
 ### Usage
 0. 获取emby地址，如：`http://your.emby.server.com:8096`  
